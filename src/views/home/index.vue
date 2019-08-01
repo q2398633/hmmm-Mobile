@@ -1,12 +1,12 @@
 <template>
     <div class="home-container">
-        <van-button type="default">默认按钮</van-button>
+        <h1>首页组件</h1>
     </div>
 </template>
 
 <script>
 export default {
-
+  name: 'HomeIndex'
 }
 </script>
 
